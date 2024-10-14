@@ -1,5 +1,4 @@
-list = {
-    "1": "True",
+list = { "1": "True",
     "2": "True",
     "3": "True",
     "4": "True",
