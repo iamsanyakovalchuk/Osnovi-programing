@@ -1,6 +1,5 @@
 import telebot
 from telebot import types
-import config
 
 TOKEN = '7681786484:AAGrPeSTyatKnncBtB52yMA4iv1BPUM9k48'
 bot = telebot.TeleBot(config.TOKEN)
