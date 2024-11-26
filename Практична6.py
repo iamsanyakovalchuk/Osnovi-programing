@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 TOKEN = '7681786484:AAGrPeSTyatKnncBtB52yMA4iv1BPUM9k48'
-bot = telebot.TeleBot(config.TOKEN)
+bot = telebot.TeleBot(TOKEN)
 
 courses = {
     1: {'name': 'Курс Python', 'price': 1000},
